@@ -1,3 +1,3 @@
-# KitchenSink Framework
+# Lando Demo
 
-react three fiber(r3f) framework with ports from shadergraph nodes utilized by the unity game engine. Each node is provided as either a single function with overloads or a family of functions. Some functions do require specific transformations between coordinate spaces and a sample vertex for parallax mapping is provided. This framework is not complete and is currently being developed.
+Proof of concept of the hotest webgl of fall 2025 using the kitchen sink r3f template and vanilla webgl/glsl shaders.
